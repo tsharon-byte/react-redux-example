@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CACA,KAEE,UACF,CACA,cAHE,eAMF,CAHA,SAEE,UACF","file":"main.971e67e1.chunk.css","sourcesContent":["body{\n  background-color: aquamarine;\n}\n.App {\n  margin: 5px auto 5px auto;\n  width: 40vw;\n}\n.control{\n  margin: 5px auto 5px auto;\n  width: 100%;\n}\n"]}
