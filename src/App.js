@@ -14,18 +14,20 @@ function App(props) {
         <div className="App">
             <div>
                 <input type="text"
+                       className="control"
                        value={firstName}
                        placeholder="First name"
                        onChange={(event) => firstNameChange(event.target.value)}/>
             </div>
             <div>
                 <input type="text"
+                       className="control"
                        value={lastName}
                        placeholder="Last name"
                        onChange={(event) => lastNameChange(event.target.value)}
             />
             </div>
-            <div>{`Your name: ${firstName} ${lastName}`}</div>
+            <div className="control">{`Your name: ${firstName} ${lastName}`}</div>
         </div>
     );
 }

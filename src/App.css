@@ -1,3 +1,11 @@
+body{
+  background-color: aquamarine;
+}
 .App {
-  text-align: center;
+  margin: 5px auto 5px auto;
+  width: 40vw;
+}
+.control{
+  margin: 5px auto 5px auto;
+  width: 100%;
 }
